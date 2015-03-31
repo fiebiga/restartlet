@@ -32,7 +32,8 @@ Or the latest development branch from Github:
 
 	$ cd restartlet
 
-	$ [From virtualenv] python setup.py install 
+	$ [From virtualenv] python setup.py install
+	
 	$ [No virtualenv] sudo python setup.py install
 
 Support
