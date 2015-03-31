@@ -3,11 +3,10 @@ Restartlet
 
 What?
 -----
-::
+
+An extension of gevent_ greenlet and pool that allow a greenlet that exits exceptionally to restart with the same function and arguments it initially started with
 
 .. _gevent: http://www.gevent.org/
-
-	An extension of gevent greenlet and pool that allow a greenlet that exits exceptionally to restart with the same function and arguments it initially started with.
 
 Usage
 ----------
