@@ -23,7 +23,7 @@
 
 from gevent.pool import Pool
 from gevent import sleep
-from compysition.greenlet import RestartableGreenlet
+from restartlet import RestartableGreenlet
 
 class RestartPool(Pool):
     """
